@@ -1,0 +1,26 @@
+{
+  "name": "youtube-masterclass-responsividade",
+  "version": "1.0.0",
+  "description": "Fala Dev! 💜",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketseat-content/youtube-masterclass-responsividade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocketseat-content/youtube-masterclass-responsividade/issues"
+  },
+  "homepage": "https://github.com/rocketseat-content/youtube-masterclass-responsividade#readme",
+  "devDependencies": {
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
